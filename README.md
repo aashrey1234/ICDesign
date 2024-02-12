@@ -7,7 +7,7 @@ To create and add the vivado project and modules, run this command in terminal:
 
 "vivado -mode batch -source tcl_add.tcl"
 
-tcl_add.tcl file is provided in the code section.
+manual/auto_add.tcl files are provided in the code section.
 
 To run the modules in the project, run this command:
 
