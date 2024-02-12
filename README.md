@@ -15,7 +15,7 @@ To run the modules in the project, run this command:
 
 tcl_run.tcl file is provided in the code section.
 
-Task is to make life easier by writing the python code that can automatically run all "Top" Modules in the project and genarate power, Delay and Utilization report for all modules in the specified folder and also make the comparison csv file or table.
+Task is to make life easier by writing the python code that can automatically add and run all "Top" Modules in the project and genarate power, Delay and Utilization report for all modules in the specified folder and also make the comparison csv file or table.
 
 Prerequisites: 
 
