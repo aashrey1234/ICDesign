@@ -1,0 +1,4 @@
+﻿,top_master_slave,top_mealy,top_moore,top_alubit,top_ripplebit,top_knowels_bit,top_koggestone_bit,top_lander_fisher_bit
+POWER,0.639,0.632,0.529,11.055,0.122,25.791,25.741,23.749
+DELAY,4.767,5.976,4.813,13.83,3.25,18.331,18.177,17.48
+LUTs,1,8,5,131,0,133,131,73
