@@ -39,5 +39,25 @@ top_module instantiates all the modules and contains buffers. It also generates 
 
 image_extractor extracts a 3x3 matrix from the input image and gives it to the smoothing module.
 
-smoothing module contains logic for smoothing the 3x3 matrix of pixels and passing it to the sharping module.
+smoothing module contains logic for smoothing the 3x3 matrix of pixels and passing it to the sharping module. Simple convolution is carried out between kernal and matrix.
 
+Sharpening process is same as smoothing.
+
+blending module add the original image pixels with sharpened pixels as shown in the fig above.
+
+normalization is done using standard formula.
+
+Results are shown below.
+
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/bd5cb405-946c-4f80-a30c-5dba2009cb4c)
+original image
+
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/2f830f40-959b-4191-9037-42536ebeaef2)
+smoothed image
+
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/0675b064-272a-4eed-859c-36f4bc50860d)
+sharpened image
+
+And finally,
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/24b8b809-4db5-480d-9ca3-94726a134183)
+Enhanced image
