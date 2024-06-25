@@ -69,3 +69,6 @@ Enhanced image
 
 # 3. Synthesis, floorplanning, placement, CTS, STA, routing, and sign-off using Genus and Innovus in 180nm
 
+3 stage pipelined processor is synthesized using SCL 180nm technology in Genus.
+IC_project3 contains the TCL script, rtl and SDC file.
+
