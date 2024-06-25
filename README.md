@@ -35,4 +35,6 @@ Linux CentOS
 This project tries to implement the image enhancement hardware in Verilog. The steps to be carried out are shown below.
 ![image](https://github.com/aashrey1234/ICDesign/assets/155153682/7b7e2870-c5b9-4ae5-95ab-fe3aeb3dd735)
 
+top_module instantiates all the modules and contains buffers. It also generates control signals for proper pipelining i.e, smoothing, sharpening and blending are carried out simultaneously.
 
+input_
