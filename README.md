@@ -37,4 +37,7 @@ This project tries to implement the image enhancement hardware in Verilog. The s
 
 top_module instantiates all the modules and contains buffers. It also generates control signals for proper pipelining i.e, smoothing, sharpening and blending are carried out simultaneously.
 
-input_
+image_extractor extracts a 3x3 matrix from the input image and gives it to the smoothing module.
+
+smoothing module contains logic for smoothing the 3x3 matrix of pixels and passing it to the sharping module.
+
