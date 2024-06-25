@@ -1,5 +1,5 @@
 ## ICDesign
- This repository contains two projects.
+ This repository contains three projects.
 # 1. Automation of Vivado synthesis and Implementation steps.
 
 This project aims to automate the flow of projects made in Vivado. Synthesis and implementation of many modules can be done with just one tcl script and Python code. 
@@ -30,7 +30,7 @@ VScode/Jupyterlab
 
 Linux CentOS
 
-## 2. Image processing in HDL
+# 2. Image processing in HDL
 
 This project tries to implement the image enhancement hardware in Verilog. The steps to be carried out are shown below.
 ![image](https://github.com/aashrey1234/ICDesign/assets/155153682/7b7e2870-c5b9-4ae5-95ab-fe3aeb3dd735)
@@ -66,3 +66,6 @@ And finally,
 ![image](https://github.com/aashrey1234/ICDesign/assets/155153682/f153abdb-fd2f-4df3-a462-61963a5f59be)
 
 Enhanced image
+
+# 3. Synthesis, floorplanning, placement, CTS, STA, routing, and sign-off using Genus and Innovus in 180nm
+
