@@ -49,7 +49,7 @@ normalization is done using standard formula.
 
 Results are shown below.
 
-![image](https://github.com/aashrey1234/ICDesign/assets/155153682/7c4e11c5-2bff-499a-8fac-f47fe1159529)
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/74286338-fc1a-417e-9144-8935cb0934df)
 
 original image
 
