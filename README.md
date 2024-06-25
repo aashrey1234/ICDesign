@@ -49,15 +49,20 @@ normalization is done using standard formula.
 
 Results are shown below.
 
-![image](https://github.com/aashrey1234/ICDesign/assets/155153682/bd5cb405-946c-4f80-a30c-5dba2009cb4c)
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/7c4e11c5-2bff-499a-8fac-f47fe1159529)
+
 original image
 
-![image](https://github.com/aashrey1234/ICDesign/assets/155153682/2f830f40-959b-4191-9037-42536ebeaef2)
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/584ba132-3926-477c-8692-daa515491b41)
+
 smoothed image
 
 ![image](https://github.com/aashrey1234/ICDesign/assets/155153682/0675b064-272a-4eed-859c-36f4bc50860d)
+
 sharpened image
 
 And finally,
+
 ![image](https://github.com/aashrey1234/ICDesign/assets/155153682/24b8b809-4db5-480d-9ca3-94726a134183)
+
 Enhanced image
