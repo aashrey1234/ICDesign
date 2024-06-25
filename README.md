@@ -63,6 +63,6 @@ sharpened image
 
 And finally,
 
-![image](https://github.com/aashrey1234/ICDesign/assets/155153682/8c291def-721a-4a9d-8b8f-f992850615b6)
+![image](https://github.com/aashrey1234/ICDesign/assets/155153682/f153abdb-fd2f-4df3-a462-61963a5f59be)
 
 Enhanced image
